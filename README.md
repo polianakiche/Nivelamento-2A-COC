@@ -1,0 +1,1 @@
+  Acredito que seja uma boa maneira de entender e compreender além do que é visto em aparelhos digitais e inteligencia artificial. Conhecendo codigos e a tecnalogia de uma forma educativca e criastiva.
