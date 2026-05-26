@@ -1,0 +1,13 @@
+body{
+
+    background-color: lch(26.5% 58.33 38.73)
+
+}
+
+header{
+
+    border-bottom: solid 2px black;
+    padding: 20px;
+    fnt-size: 32px;
+    color: gold;
+}
