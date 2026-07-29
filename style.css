@@ -8,6 +8,22 @@ header{
 
     border-bottom: solid 2px black;
     padding: 20px;
-    fnt-size: 32px;
+    font-size: 32px;
     color: gold;
+}
+.capa{
+    color:black;
+    font-size: 20px;
+}
+
+#livros{
+    display: flex;
+    padding-left: 200px;
+}
+
+.videos{
+
+    display: flex;
+    overflow: auto;
+    gap: 10px;
 }
